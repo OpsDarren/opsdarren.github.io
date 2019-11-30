@@ -13,7 +13,11 @@
       
       <categories>
           
+          <category> 技術 </category>
+          
           <category> Windows </category>
+          
+          <category> 安全 </category>
           
       </categories>
       
@@ -45,6 +49,8 @@
       
       
       <categories>
+          
+          <category> 技術 </category>
           
           <category> Hexo </category>
           
